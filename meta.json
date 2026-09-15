@@ -3,9 +3,9 @@
   "heroVariant": "horizontal-story-lead-in",
   "serviceLayout": "horizontal-scroll",
   "ctaStyle": "outline",
-  "paletteSeed": 0,
-  "heroSeed": 0,
-  "copySeed": 0,
+  "paletteSeed": 1,
+  "heroSeed": 1,
+  "copySeed": 1,
   "artDirection": {
     "key": "horizontal-scroll-story",
     "label": "Horizontal-Scroll Storytelling — pinned panel sequence",
